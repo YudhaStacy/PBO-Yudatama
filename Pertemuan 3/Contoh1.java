@@ -18,7 +18,7 @@ abstract class Kendaraan{
     abstract void bergerak();
     
     public void info(){
-        System.err.println(nama + " adalah kendaran.");
+        System.out.println(nama + " adalah kendaran.");
     }
 }
 
